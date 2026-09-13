@@ -25,7 +25,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
-![Yegor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heayr&show_icons=true&theme=tokyonight&hide_border=true)
+![Yegor's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=heayr&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=heayr&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📫 Let's Connect
 - **Telegram:** [@PotatoChipasu](https://t.me/PotatoChipasu)
