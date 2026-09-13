@@ -4,6 +4,7 @@
 
 ### 🚀 What I do
 - 🛠 **Acted as Lead Engineer for NoLogs**, a commercial SaaS product with active paid subscriptions. Architected the full stack (Next.js 15, FastAPI, PostgreSQL, YooKassa).
+- 🤖 **Build AI-driven features**, integrating LLMs (OpenAI/Anthropic APIs) and agentic workflows into production web apps.
 - 💻 **Develop B2B platforms**, admin dashboards, and client-facing apps (e.g., Radiotochka).
 - 🏆 **1st place winner** at the Droog Product Hackathon.
 - ⚡ **Obsessed with Core Web Vitals**, SSR/SSG, RBAC, and robust API integrations.
@@ -16,9 +17,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Backend & Infra:**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Backend, AI & Infra:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
