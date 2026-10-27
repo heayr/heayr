@@ -3,7 +3,7 @@
 **Frontend & Fullstack Engineer** with 3+ years of experience building fast, scalable, and responsive commercial web applications. I specialize in **React, Next.js, and TypeScript**, with a strong focus on performance (100/100 PageSpeed), clean architecture, and modern UX.
 
 ### 🚀 What I do
-- 🛠 **Acted as Lead Engineer for NoLogs**, a commercial SaaS product with active paid subscriptions. Architected the full stack (Next.js 15, FastAPI, PostgreSQL, YooKassa).
+- 🛠 **Acted as an Engineer for NoLogs**, a commercial SaaS product with active paid subscriptions. Architected the full stack (Next.js 15, FastAPI, PostgreSQL, YooKassa).
 - 🤖 **Build AI-driven features**, integrating LLMs (OpenAI/Anthropic APIs) and agentic workflows into production web apps.
 - 💻 **Develop B2B platforms**, admin dashboards, and client-facing apps (e.g., Radiotochka).
 - 🏆 **1st place winner** at the Droog Product Hackathon.
